@@ -1,4 +1,4 @@
-import spotipy, time, asyncio, random,
+import spotipy, time, asyncio, random
 from spotipy.oauth2 import SpotifyOAuth
 from kasa import SmartBulb
 
